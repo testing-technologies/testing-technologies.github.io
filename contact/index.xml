@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contact Us on Testing Technologies Inc.</title>
-    <link>http://testing-technologies.net/contact/</link>
+    <link>https://testing-technologies.github.io/contact/</link>
     <description>Recent content in Contact Us on Testing Technologies Inc.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 09 Aug 2018 16:07:08 -0700</lastBuildDate>
     
-	<atom:link href="http://testing-technologies.net/contact/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://testing-technologies.github.io/contact/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

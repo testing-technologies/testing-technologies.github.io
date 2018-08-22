@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Panels and Prices on Testing Technologies Inc.</title>
-    <link>http://testing-technologies.net/services/panels/</link>
+    <link>https://testing-technologies.github.io/services/panels/</link>
     <description>Recent content in Panels and Prices on Testing Technologies Inc.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Aug 2018 16:07:40 -0700</lastBuildDate>
     
-	<atom:link href="http://testing-technologies.net/services/panels/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://testing-technologies.github.io/services/panels/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>I-502 Panel</title>
-      <link>http://testing-technologies.net/services/panels/502/</link>
+      <link>https://testing-technologies.github.io/services/panels/502/</link>
       <pubDate>Wed, 15 Aug 2018 17:26:18 -0700</pubDate>
       
-      <guid>http://testing-technologies.net/services/panels/502/</guid>
+      <guid>https://testing-technologies.github.io/services/panels/502/</guid>
       <description>test</description>
     </item>
     
     <item>
       <title>I-502 Solvents and Extracts Panel</title>
-      <link>http://testing-technologies.net/services/panels/502-solvents/</link>
+      <link>https://testing-technologies.github.io/services/panels/502-solvents/</link>
       <pubDate>Wed, 15 Aug 2018 17:26:28 -0700</pubDate>
       
-      <guid>http://testing-technologies.net/services/panels/502-solvents/</guid>
+      <guid>https://testing-technologies.github.io/services/panels/502-solvents/</guid>
       <description>test</description>
     </item>
     
     <item>
       <title>Microbiology Panel</title>
-      <link>http://testing-technologies.net/services/panels/microbiology/</link>
+      <link>https://testing-technologies.github.io/services/panels/microbiology/</link>
       <pubDate>Thu, 09 Aug 2018 12:16:43 -0700</pubDate>
       
-      <guid>http://testing-technologies.net/services/panels/microbiology/</guid>
+      <guid>https://testing-technologies.github.io/services/panels/microbiology/</guid>
       <description>Microbial Testing Why is Microbial Testing Important?  Microbiological contaminants can cause illness and potentially death for patients with compromised immune systems. Washington state requires that all I-502 recreational marijuana is tested for microbial contamination. Medical growers are strongly advised to test as well.
  Microbial contaminants can affect your grow or production facility, resulting in deteriorated and low quality product and substantial loss of revenue.
   The safety and health of consumers is of utmost importance to responsible cannabis businesses.</description>
@@ -42,30 +42,30 @@
     
     <item>
       <title>Residual Solvents Panel</title>
-      <link>http://testing-technologies.net/services/panels/solvents/</link>
+      <link>https://testing-technologies.github.io/services/panels/solvents/</link>
       <pubDate>Thu, 09 Aug 2018 12:17:01 -0700</pubDate>
       
-      <guid>http://testing-technologies.net/services/panels/solvents/</guid>
+      <guid>https://testing-technologies.github.io/services/panels/solvents/</guid>
       <description>Residual Solvent Testing Highly concentrated oils and purified extracts are created through the use of Hydrocarbon gases and organic solvents. If the proper quality measurements are not taken the finished product will contain residue from the gasses or solvents that the consumer could ingest or inhale.
 Testing Technologies can test for residual solvents in extracts, or edibles. To detect residual solvents we use GC-FID coupled with headspace analysis. We follow the residual solvents method USP 467.</description>
     </item>
     
     <item>
       <title>Terpene Panel</title>
-      <link>http://testing-technologies.net/services/panels/terpenes/</link>
+      <link>https://testing-technologies.github.io/services/panels/terpenes/</link>
       <pubDate>Thu, 09 Aug 2018 12:16:55 -0700</pubDate>
       
-      <guid>http://testing-technologies.net/services/panels/terpenes/</guid>
+      <guid>https://testing-technologies.github.io/services/panels/terpenes/</guid>
       <description>What Are Terpenes? Terpenes are aromatic molecules found in marijuana that gives it the distinctive smell. Thousands of terpenes are found in the plant kingdom, and there are more than one hundred compounds found in cannabis alone.
 As a cannabis plant grows and matures from fertility to senescence, the resins containing terpenes change in viscosity as well and its components. Terpenes in cannabis are divided into two chemical classifications, monoterpenes and sesquiterpenes, the former being more volatile.</description>
     </item>
     
     <item>
       <title>Potency Panel</title>
-      <link>http://testing-technologies.net/services/panels/potency/</link>
+      <link>https://testing-technologies.github.io/services/panels/potency/</link>
       <pubDate>Thu, 09 Aug 2018 12:16:29 -0700</pubDate>
       
-      <guid>http://testing-technologies.net/services/panels/potency/</guid>
+      <guid>https://testing-technologies.github.io/services/panels/potency/</guid>
       <description>Cannabinoid Extraction Potency testing begins with the extraction of the cannabinoids. Testing Technologies uses the most advanced extraction techniques in the industry. Our extraction methods guarantee that the molecules of interest are fully extracted and not left behind. Incomplete extractions can result in low and inaccurate results.
 Our extraction method is not only the best in the industry, it is also significantly less wasteful and more environmentally friendly than other methods currently in use.</description>
     </item>
