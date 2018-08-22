@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Testing Technologies Inc.</title>
+    <link>http://testing-technologies.net/services/</link>
+    <description>Recent content in Services on Testing Technologies Inc.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Aug 2018 12:16:00 -0700</lastBuildDate>
+    
+	<atom:link href="http://testing-technologies.net/services/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

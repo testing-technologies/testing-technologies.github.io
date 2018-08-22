@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sample Pickup on Testing Technologies Inc.</title>
+    <link>http://testing-technologies.net/services/pickup/</link>
+    <description>Recent content in Sample Pickup on Testing Technologies Inc.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Aug 2018 16:13:58 -0700</lastBuildDate>
+    
+	<atom:link href="http://testing-technologies.net/services/pickup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vehicle/Driver Info</title>
+      <link>http://testing-technologies.net/services/pickup/manifest/</link>
+      <pubDate>Wed, 15 Aug 2018 16:14:31 -0700</pubDate>
+      
+      <guid>http://testing-technologies.net/services/pickup/manifest/</guid>
+      <description>Cars Here you can find the license information for our fleet of cars in order to fill out your manifest.
+2009 Cooper Susuki SX4
+VIN: JS2YB413396202814
+License #: BIL 3990
+Testing Technolgies, Inc.
+19834 Viking Ave. NW
+Poulsbo, WA 98370
+2012 Black Smart Car
+VIN: WMEEJ3BAXCK526477
+License #: AUV 3564
+Testing Technolgies, Inc.
+19834 Viking Ave. NW
+Poulsbo, WA 98370
+2008 White Smart Car</description>
+    </item>
+    
+    <item>
+      <title>Routes</title>
+      <link>http://testing-technologies.net/services/pickup/routes/</link>
+      <pubDate>Wed, 15 Aug 2018 16:14:24 -0700</pubDate>
+      
+      <guid>http://testing-technologies.net/services/pickup/routes/</guid>
+      <description>Testing Technologies Pickups by Zone ZONE 0– MONDAY THRU FRIDAY
+ Kitsap County Greater Seattle Area Jefferson County  ZONE 1 – TUESDAY/ THURSDAY
+ Lewis County Mason County Grays Harbor County Thurston County Pacific County  ZONE 2 – MONDAY
+ King County Pierce County  ZONE 3 – TUESDAY/THURSDAY
+ Whatcom County Skagit County Snohomish County Island County  ZONE 4 – TUESDAY/THURSDAY
+ Cowlitz County Clark County Skamania County  ZONE 5 – WEDNESDAY</description>
+    </item>
+    
+  </channel>
+</rss>
